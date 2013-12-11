@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>4B7F3CB8-E0F4-4ABD-A262-B67596C115BD</string>
+	<key>IDESourceControlProjectName</key>
+	<string>MLT</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>BD9A8DB9-70B2-4058-88BF-FB5A2796D905</key>
+		<string>https://github.com/shashicyberswift/mltsource.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>MLTProject/platforms/ios/MLT.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>BD9A8DB9-70B2-4058-88BF-FB5A2796D905</key>
+		<string>../../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/shashicyberswift/mltsource.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>BD9A8DB9-70B2-4058-88BF-FB5A2796D905</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>BD9A8DB9-70B2-4058-88BF-FB5A2796D905</string>
+			<key>IDESourceControlWCCName</key>
+			<string>mltsource</string>
+		</dict>
+	</array>
+</dict>
+</plist>
